@@ -1,0 +1,9 @@
+*.h5
+*.pt
+*.ts
+/node_modules
+.DS_Store
+*.map
+Kashf Sahte.zip
+*.png
+*.js
